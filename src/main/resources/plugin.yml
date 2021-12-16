@@ -1,5 +1,5 @@
 name: EastLandLog4jFixer
 main: cn.jiongjionger.log4jfixer.EastLandLog4jFixer
-version: 1.0.3
+version: 1.0.4
 author: jiongjionger
 depend: [ProtocolLib]
